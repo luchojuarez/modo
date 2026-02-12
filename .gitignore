@@ -5,17 +5,13 @@
 *.js.map
 
 # Node dependencies
-node_modules/*
+node_modules/
 
-# Build and output directories
-# Replace 'dist' or 'build' with your actual output directory name if different
 /dist
 /build
 /output
 
-# Environment files
 .env
 .env.*
 
-# Editor and OS specific files
 .vscode/
